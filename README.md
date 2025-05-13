@@ -75,6 +75,7 @@ Start the Spring Boot application:
 ```
 ./mvnw spring-boot:run
 ```
+![page1](https://github.com/user-attachments/assets/713cf323-bf4a-4e20-a470-dd89054e29f3)
 
 ## Frontend Setup
 
@@ -90,6 +91,7 @@ npm install
 ```bash
 npm run dev
 ```
+![page2](https://github.com/user-attachments/assets/f56087d9-d0ee-4d1b-a95e-e81fb13d2c75)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
